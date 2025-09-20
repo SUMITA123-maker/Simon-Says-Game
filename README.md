@@ -19,9 +19,6 @@ Each round, the sequence gets longer, and the challenge gets harder. How far can
 ├── style.css # Styles for the game
 └── script.js # Game logic
 
-yaml
-Copy code
-
 ---
 
 ## 🕹️ How to Play
